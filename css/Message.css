@@ -7,7 +7,7 @@ body {
   text-align: center;
 }
 .Navigation {
-  position: absolute;
+  position: fixed;
   margin-right: 0;
   top: 1em;
   right: 0;
@@ -60,7 +60,7 @@ body {
 .box_bottom {
   position: relative;
   margin: auto;
-  top: 50em;
+  top: 40em;
   font-family: Monaco, Consolas, "Lucida Console", monospace;
   font-size: 28px;
   text-align: left;
