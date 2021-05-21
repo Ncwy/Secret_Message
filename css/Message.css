@@ -70,3 +70,22 @@ body {
 .author {
   text-align: center;
 }
+
+button {
+    color: darkorange;
+    font-family: Monaco, Consolas, "Lucida Console", monospace;
+    font-size: 28px;
+    width: 5em;
+    background-color: transparent;
+    position: relative;
+    top: 8em;
+}
+
+#hint {
+    position: relative;
+    text-align: center;
+    color: rgb(216, 213, 209);
+    font-family: Monaco, Consolas, "Lucida Console", monospace;
+    font-size: 40px;
+    top: 11em;
+}
